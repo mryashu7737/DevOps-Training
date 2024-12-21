@@ -1,0 +1,34 @@
+🚀 Excited to kickstart my DevOps Training journey at LinuxWorld Institute, under the guidance of our mentor Mr. Vimal Daga Sir! 🙌
+
+Today, we dived into some foundational yet impactful concepts and practical hands-on learning:
+
+🌟 Four Methods to Install Operating Systems
+1️⃣ Bare Metal:
+High-performance option, but limited to one system at a time.
+
+2️⃣ Virtualization:
+Leveraging tools like Oracle VirtualBox, VMware, and Hyper-V for multi-system setups.
+
+3️⃣ Cloud Computing:
+Exploring AWS, Azure, and GCP to build scalable environments.
+
+4️⃣ Containerization:
+Using Docker and Kubernetes for lightweight, portable, and efficient solutions.
+
+🖥️ Essential Commands & Insights
+Managing Processes:
+
+Pause a process: Ctrl + Z
+Resume a paused process: fg [job ID]
+View running jobs: jobs
+Monitoring System Resources:
+
+Analyze CPU and RAM usage with ps -aux.
+Identify specific process IDs using pgrep [process name].
+Terminate processes gracefully or forcefully with kill -9 [PID].
+This session reinforced the importance of understanding the underlying systems that power modern DevOps workflows.
+
+A big shoutout to LinuxWorld Institute for creating such a hands-on and practical learning environment. I’m excited to explore the limitless possibilities DevOps has to offer in transforming IT landscapes!
+
+💡 Let’s connect and share insights—#DevOps #LinuxWorld #CloudComputing #Containerization #Virtualization
+
