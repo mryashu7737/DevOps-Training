@@ -42,6 +42,8 @@ Today, let's dive into some fundamental commands that every Linux user should be
 
 -> date: Displays the current date and time.
 
+Today I revised Bash programming, specifically variables, user input, and command output capture. I also discovered the effectiveness of & for parallel execution. These abilities are crucial for automating processes, increasing productivity, and developing a better understanding of the technologies that power DevOps workflows.
+
 A big thank you to LinuxWorld Institute for providing such a dynamic and hands-on learning environment. The journey ahead is exciting, and I can't wait to go deeper! 
 
 Let's connect and share insights- #DevOps, #LinuxWorld, #CloudComputing, #Containerisation, #ShellScripting, and #Virtualisation
