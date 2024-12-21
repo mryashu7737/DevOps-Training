@@ -22,6 +22,16 @@ for those process which are not started by CLI fg command will not work for them
 by #pgrep firefox then it will provide you a id example 5202 then we have to use kill command with signal number 
 example for kill use -9, for stop use -19.
 
+and learned how to use the mannual command option to study more options of any command 
+example #man date will explain you all the diffrent types of options to use command 
+
+after that we study top and htop command which is use to check continously the status of the programs using the cpu and memory useage 
+then we test the nice and renice command to modify the prioprity of any program and the running program 
+later we discussed about the RES  which is resident address explained the how much memory used by the programe
+
+then the other diffrent options like kill any program from the top status of utilizing memory by the program
+
+later we started the BASH SHELL Script topic and revise the concept of shell scripting variables, reading value from user and storing the command output to the variable and use it later we get to know the power of "&" which is use to run multiple command at a time and gedit etc 
 
 
 
