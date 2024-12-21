@@ -33,5 +33,7 @@ then the other diffrent options like kill any program from the top status of uti
 
 later we started the BASH SHELL Script topic and revise the concept of shell scripting variables, reading value from user and storing the command output to the variable and use it later we get to know the power of "&" which is use to run multiple command at a time and gedit etc 
 
+free command is used to check the free space on the RAM. Sometimes if we start some application or some process space before that is more and after starting the program it may be less than the previous because some space is occupied with some garbage waste which gets cleared and due to which space gets more after the startup.
 
+lscpu command will tell how many CPUs are in your computer and even it will tell how many hardware threads.
 
