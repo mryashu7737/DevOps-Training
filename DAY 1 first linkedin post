@@ -1,6 +1,6 @@
 🚀 Excited to kickstart my DevOps Training journey at LinuxWorld Institute, under the guidance of our mentor Mr. Vimal Daga Sir! 🙌
 
-Today, we dived into some foundational yet impactful concepts and practical hands-on learning:
+Today’s session was packed with hands-on learning and practical insights into the world of DevOps:
 
 🌟 Four Methods to Install Operating Systems
 1️⃣ Bare Metal:
@@ -15,20 +15,27 @@ Exploring AWS, Azure, and GCP to build scalable environments.
 4️⃣ Containerization:
 Using Docker and Kubernetes for lightweight, portable, and efficient solutions.
 
-🖥️ Essential Commands & Insights
+🖥️ Essential Commands & System Insights
+Understanding Commands:
+
+Use man [command] to explore all the available options for any command. For example, man date provides detailed options for the date command.
+Monitoring System Resources:
+
+Continuously track CPU and memory usage with top and htop.
+Modify program priorities with nice and renice.
+Identify the Resident Address (RES) to measure how much memory a program is using.
 Managing Processes:
 
 Pause a process: Ctrl + Z
 Resume a paused process: fg [job ID]
 View running jobs: jobs
-Monitoring System Resources:
+Terminate processes: Use kill -9 [PID] or directly kill from the top status.
+🖋️ Introduction to Bash Shell Scripting
+Revised key concepts like shell variables, reading user inputs, and storing command outputs in variables for later use.
+Explored the power of & to execute multiple commands simultaneously.
+Learned how to edit and manage scripts efficiently using tools like gedit.
+Each of these learnings emphasized the importance of having a solid grasp of the underlying systems that support modern DevOps workflows.
 
-Analyze CPU and RAM usage with ps -aux.
-Identify specific process IDs using pgrep [process name].
-Terminate processes gracefully or forcefully with kill -9 [PID].
-This session reinforced the importance of understanding the underlying systems that power modern DevOps workflows.
+A big shoutout to LinuxWorld Institute for fostering such a dynamic and hands-on learning environment. The journey ahead is exciting, and I can’t wait to dive deeper!
 
-A big shoutout to LinuxWorld Institute for creating such a hands-on and practical learning environment. I’m excited to explore the limitless possibilities DevOps has to offer in transforming IT landscapes!
-
-💡 Let’s connect and share insights—#DevOps #LinuxWorld #CloudComputing #Containerization #Virtualization
-
+💡 Let’s connect and exchange insights—#DevOps #LinuxWorld #CloudComputing #Containerization #ShellScripting #Virtualization
