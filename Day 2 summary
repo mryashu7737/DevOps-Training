@@ -1,0 +1,13 @@
+#Day two of Devops training 
+today we disscussed
+  - some command doesn't give standard output. eg. touch command (if you doen't provide proper input it will not work)
+  - we discussed about the I/O Redirect functionality how we can use them in multiple ways such as overwriting or create the file if file doesn't exits
+  - then disscussed about the actual memory using by the CPU in GiB and MiB 
+  - then the running method of arithmatic expression in shell 
+  - then the use the piping in different ways to give one command output to the another command 
+  - execute the deep and complex commands with there multiple options
+  - later we handson the command of deeliminator or field seprator.
+  - later we store the actual memory occuping by the cpu into a variable and the total memory by a merging multiple commands at a time such as head,tail,free,cut etc
+  - later we disscused about the Awk scripting which is abbreviated from the names of the developers – Aho, Weinberger, and Kernighan.
+
+in the half of the day we create our first script which is used to find the CPU average use in percentage and we can see it by just run one script.
