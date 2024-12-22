@@ -11,3 +11,16 @@ today we disscussed
   - later we disscused about the Awk scripting which is abbreviated from the names of the developers – Aho, Weinberger, and Kernighan.
 
 in the half of the day we create our first script which is used to find the CPU average use in percentage and we can see it by just run one script.
+
+
+after break 
+
+after break we discussed about the comparision operators in shell scripting are diffr for string and numeric values, 
+then we execute some if else blocks in shell script its quite diffrent syntax as compare to other languages 
+later we discussed about the test contition checking syntax with the keyword 'test' as well as the symbol [[]] 
+then later some more detail about the comparition oprators 
+after that we check the espeak-ng feature which will speak anything whatever input you gave to them 
+and in the end we use the while loop and the diffrent bash commands to make more perfect our first shell script which we already created!
+after adding some more line of code in script we get the final script 
+which will give you the run time average percentage of CPU using by the programs continously as well as we set the limit to the CPU usage if the cpu uses increase more than 80%
+it will give a alert message as an alarm.
