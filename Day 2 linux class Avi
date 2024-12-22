@@ -1,0 +1,48 @@
+Day 2
+👉🏻I/O Redirection 
+-> Touch command to create a file
+-> tr to translate to from given to new one 
+tr 'a-z' 'A-Z' <enter input>
+-> date > file.txt it will enter date into the given file
+-> to append in the file ">>" 
+-> if we don't have to give input in tr command we can use file as input by using "<" and enter the filename
+-> 1GiB=1024 Mib 
+-> In pendrive we store data in GiB not in GB 
+-> "*" means anything 
+-> expr command is used to maths calculation 
+-> to multiply we need to write "\*" 
+👉🏻Piping 
+-> cut command will give string as per asked
+--> date | cut -d" " -f2 
+Output- Dec 
+Here d is delimitor and f is fieldlimiter
+-> Head is used to read top 10 lines
+--> head -2 file.txt
+-> Tail is used to read last 10 lines 
+-> awk command 
+-> String interpolate that is whenever there is variable in the line it program will automatically understand about it
+-> To retrieve the used memory from free command 
+free -m | head -2 | tail -1 | awk '{ print $3}'
+To store the the answer in variable 
+x=`free -m | head -2 | tail -1 | awk { print 3}`
+👉🏻Shell scripting
+-> status of exit code is either 1 or 0
+-> Any number other than 0 are false and 0 is true
+-> if else block
+If 
+Than 
+Condition
+Else 
+Condition 
+Fi
+-> espeak-ng
+<Giving command> 
+-> while loop
+start=1
+while [[ $start -le 10]]
+
+For infinite while loop it is 
+while:
+do
+<Code>
+done
