@@ -1,0 +1,20 @@
+🚀 Day 4: Project on Docker & Networking 🌐
+
+we started the discussion on the Networking which we will be using in the upcoming time with docker and shell script
+revise basic concepts like Ipv4, Ipv6 hardwares devices and all.
+we get to know for stablish the network we must meet some conditions
+1. physical Hardware
+2. Operating System in Up state.
+3. Nic/Ether/LAN 
+4. IP address
+5. Network
+6. Same type of IP such as (private- private)/ (public-public)
+7. private ip ----Net------public ip
+8. Routing Table 
+9. connect the divices when both device's ip has same Network name then with switch otherwise with the router.
+
+more detail discussion on the Network name and NETMASK
+then we practice on the routing table such as remove the ip of any device (0.0.0.0) and then add our specific ip address to access with our gateway
+same concept hands on practice with docker container os and clear the concepts of networking.
+Tested privileged mode to give containers extended capabilities: docker run -it --privileged Ubuntu:14.04
+
